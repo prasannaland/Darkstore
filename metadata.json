@@ -1,0 +1,6 @@
+{
+  "name": "Dark Store Manager",
+  "description": "A premium Dark Store inventory management dashboard to track real-time stock levels and warehouse orders across Fashion, Beauty & Care, and Grocery categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
